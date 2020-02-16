@@ -19,3 +19,6 @@
 [submodule "sta-663-2020"]
 	path = extern/cliburn-sta-663-2020
 	url = git@github.com:fesaille/sta-663-2020.git
+[submodule "extern/ageron_handson_ml2"]
+	path = extern/ageron_handson_ml2
+	url = https://github.com/ageron/handson-ml2
