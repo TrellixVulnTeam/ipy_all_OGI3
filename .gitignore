@@ -131,3 +131,5 @@ dmypy.json
 .jupyter
 .local
 .config
+metastore_db
+.npm

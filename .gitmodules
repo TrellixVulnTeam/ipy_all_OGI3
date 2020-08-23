@@ -22,3 +22,6 @@
 [submodule "extern/ageron_handson_ml2"]
 	path = extern/ageron_handson_ml2
 	url = https://github.com/ageron/handson-ml2
+[submodule "coursera/ibm-data-science"]
+	path = coursera/ibm-data-science
+	url = git@github.com:fesaille/coursera-ibm-data-science.git
