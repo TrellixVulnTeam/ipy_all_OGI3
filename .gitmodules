@@ -1,12 +1,3 @@
-[submodule "Go"]
-	path = _Go
-	url = git@github.com:fesaille/ipy_go.git
-[submodule "JS"]
-	path = _JS
-	url = git@github.com:fesaille/ipy_js.git
-[submodule "C"]
-	path = _C
-	url = git@github.com:fesaille/ipy_C.git
 [submodule "bios-823-2019"]
 	path = extern/cliburn_bios-823-2019
 	url = git@github.com:fesaille/bios-823-2019.git
